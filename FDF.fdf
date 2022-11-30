@@ -14,7 +14,7 @@
 ################################################################################
 
 
-[FD.Msm8916_EFI]
+[FD.Msm8930_EFI]
 BaseAddress   = 0x80200000|gEmbeddedTokenSpaceGuid.PcdEmbeddedFdBaseAddress  #The base address of the FLASH Device.
 Size          = 0x00100000|gEmbeddedTokenSpaceGuid.PcdEmbeddedFdSize         #The size in bytes of the FLASH Device
 ErasePolarity = 1
